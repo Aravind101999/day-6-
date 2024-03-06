@@ -27,7 +27,8 @@ class person{
   
 }
  
-var person1=new person("karthick","kumar",25,"MBA","coimbatore",987654321);
+var person1=new person("aravindh","kumar",25,"MBA","coimbatore",987654321);
 console.log(person1);
-var person2=new person("kumar","kumar",22,"MBA","coimbatore",968754321);
+var person2=new person("vasanth","kumar",22,"MBA","coimbatore",968754321);
 console.log(person2);
+
