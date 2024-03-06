@@ -1,4 +1,5 @@
 ***Question 1.Class - Movie ***
+answer: https://github.com/Aravind101999/day-6-/blob/main/scr.js
 
 The class Movie is stated below. An instance of class Movie represents a film. This class has the following three properties:
 
@@ -20,3 +21,4 @@ Question 2.Practice/class-circle.md
 
 
  Question 3. Write a “person” class to hold all the details
+ answer :https://github.com/Aravind101999/day-6-/blob/main/scr.js
