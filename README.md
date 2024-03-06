@@ -1,5 +1,5 @@
 ***Question 1.Class - Movie ***
-answer: https://github.com/Aravind101999/day-6-/blob/main/scr.js
+Answer: https://github.com/Aravind101999/day-6-/blob/main/scr.js
 
 The class Movie is stated below. An instance of class Movie represents a film. This class has the following three properties:
 
@@ -17,8 +17,9 @@ d) Write a piece of code that creates an instance of the class Movie with the ti
 
 
 Question 2.Practice/class-circle.md
+Answer :https://github.com/Aravind101999/day-6-/blob/main/2.%20Circle%20scr1.js
 ![ClassDiagram_Circle](https://github.com/Aravind101999/day-6-/assets/63011485/c99636e8-3219-4fec-84df-45e938e0cb98)
 
 
  Question 3. Write a “person” class to hold all the details
- answer :https://github.com/Aravind101999/day-6-/blob/main/scr.js
+ Answer :https://github.com/Aravind101999/day-6-/blob/main/scr.js
