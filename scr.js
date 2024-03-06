@@ -1,4 +1,4 @@
-
+/// 1. for movie
 class movie {
     constructor(title,studio,pg){
         this.title=title;
@@ -27,7 +27,7 @@ class person{
   
 }
  
-var person1=new person("karthick","kumar",25,"MBA","coimbatore",9994587495);
+var person1=new person("karthick","kumar",25,"MBA","coimbatore",987654321);
 console.log(person1);
-var person2=new person("kumar","kumar",22,"MBA","coimbatore",995118518418);
+var person2=new person("kumar","kumar",22,"MBA","coimbatore",968754321);
 console.log(person2);
